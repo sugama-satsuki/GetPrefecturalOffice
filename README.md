@@ -1,0 +1,2 @@
+# GetPrefecturalOffice
+県庁所在地の緯度経度を取得する
